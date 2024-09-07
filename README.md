@@ -1,7 +1,7 @@
 # 16-Bit RISC Pipeline Microprocessor
 
 ## Introduction
-Welcome to the repository for our EE309: Microprocessor Systems project at IIT Bombay. This repository documents the design and implementation of a 16-bit RISC pipeline microprocessor. The project focused on creating a CPU with a six-stage pipeline architecture based on the RISC principles, optimizing both performance and efficiency.
+Hey, Welcome to the repository for my EE309: Microprocessors Course project at IIT Bombay. This repository documents the design and implementation of a 16-bit RISC pipeline microprocessor. The project focused on creating a CPU with a six-stage pipeline architecture based on the RISC principles, optimizing both performance and efficiency.
 
 ## Core Concepts Implemented
 ### Pipeline
