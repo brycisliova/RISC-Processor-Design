@@ -53,7 +53,7 @@ These components were carefully designed and integrated to optimize performance 
 For more detailed information, refer to the following:
 
 - [Problem Statement](https://github.com/brycisliova/RISC-Processor-Design/blob/main/EE309-Project-pipelined-RISC-IITB-statement.pdf)
-- [Project Report](https://github.com/your-repository/project-report.pdf)
+- [Project Report](https://github.com/brycisliova/RISC-Processor-Design/blob/main/Team_ID_10_EE309_Report.pdf)
 
 ## Conclusion
 This project demonstrates the design and implementation of a 16-bit RISC pipeline microprocessor, highlighting key concepts in CPU architecture and hazard management.
