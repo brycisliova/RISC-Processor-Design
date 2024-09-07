@@ -44,8 +44,8 @@ The pipeline includes several core components, such as:
 These components were carefully designed and integrated to optimize performance and minimize hazards.
 
 ## Team Members
-- Hrishikesh S
 - Jatin Kumar
+- Hrishikesh S
 - Suyash Jitendra Majhi
 - Arnav Agrawal
 
