@@ -44,16 +44,16 @@ The pipeline includes several core components, such as:
 These components were carefully designed and integrated to optimize performance and minimize hazards.
 
 ## Team Members
+- Kanak Dudi
 - Jatin Kumar
 - Hrishikesh S
 - Suyash Jitendra Majhi
-- Arnav Agrawal
+
 
 ## Documentation
 For more detailed information, refer to the following:
 
 - [Problem Statement](https://github.com/brycisliova/RISC-Processor-Design/blob/main/EE309-Project-pipelined-RISC-IITB-statement.pdf)
-- [Project Report](https://github.com/brycisliova/RISC-Processor-Design/blob/main/Team_ID_10_EE309_Report.pdf)
 
 ## Conclusion
 This project demonstrates the design and implementation of a 16-bit RISC pipeline microprocessor, highlighting key concepts in CPU architecture and hazard management.
